@@ -1,3 +1,13 @@
 site_name: SebastianMan.com
 theme:
   name: material
+  theme:
+  logo: assets/logo.png
+  favicon: /assets/images/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    scheme: slate
+    primary: white
+    accent: red
